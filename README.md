@@ -15,15 +15,10 @@ Flashcard Quiz App is a simple and interactive Android application designed to h
 
 🛠️ Tech Stack
 
-Kotlin
-
-MVVM Architecture
-
-Room (Local Database)
-
-ViewModel & LiveData
-
-View Binding
-
-Material Design
+- Kotlin
+- MVVM Architecture
+- Room (Local Database)
+- ViewModel & LiveData
+- View Binding
+- Material Design
 
