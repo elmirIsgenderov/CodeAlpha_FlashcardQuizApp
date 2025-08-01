@@ -5,13 +5,13 @@ Flashcard Quiz App is a simple and interactive Android application designed to h
 
 🎯 Key Features
 
-✅ Create custom flashcards with questions and answers
-✏️ Edit or delete existing flashcards anytime
-📖 Navigate through flashcards using "Next" and "Previous" buttons
-👁️ Reveal answers with the "Show Answer" button
-📱 Clean and user-friendly UI
-📦 Uses Room Database for local storage
-🧠 Built using MVVM architecture and LiveData
+✅ Create custom flashcards with questions and answers  
+✏️ Edit or delete existing flashcards anytime  
+📖 Navigate through flashcards using "Next" and "Previous" buttons  
+👁️ Reveal answers with the "Show Answer" button  
+📱 Clean and user-friendly UI  
+📦 Uses Room Database for local storage  
+🧠 Built using MVVM architecture and LiveData  
 
 🛠️ Tech Stack
 
